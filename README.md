@@ -1,5 +1,5 @@
 # BinarySearchTree
-Minh Tran's binary search tree.
+Binary search tree.
 
 Functionalities:
 - Get nodes count
